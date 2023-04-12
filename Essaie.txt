@@ -1,1 +1,2 @@
-Bonjour ugo
+Bonjour ugo,
+Je viens de créer une branch modif pour notre futur collaboration
